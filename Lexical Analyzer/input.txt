@@ -1,0 +1,14 @@
+int max(i,j)
+//this is a single line comment
+int i,j; //comment 2
+{
+i==j;
+g+=f;
+g++;
+/* abcd
+df * gh
+sdf */ 
+return i>=j?i:j;
+d=675;
+string="hello";
+}
